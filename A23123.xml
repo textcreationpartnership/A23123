@@ -1,0 +1,1677 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A table to al the statutes made from the beginning of the raigne of Kyng Edwarde the. vi. vnto this present. xii. yeare of the reigne of oure moste gratious and soueraigne ladye Queene Elizabeth</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23123</idno>
+            <idno type="STC">STC 9546</idno>
+            <idno type="STC">ESTC S121642</idno>
+            <idno type="EEBO-CITATION">99856813</idno>
+            <idno type="PROQUEST">99856813</idno>
+            <idno type="VID">22443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 292:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A table to al the statutes made from the beginning of the raigne of Kyng Edwarde the. vi. vnto this present. xii. yeare of the reigne of oure moste gratious and soueraigne ladye Queene Elizabeth</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Richardi Tottelli. Cum priuilegio,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1570]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An index intended to accompany collections of the statutes, STC 9419 etc.</note>
+                  <note>Signatures: A⁶.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Public General Acts. 1547-1570. 1 Edw.VI-12 Eliz.I --  Indexes --  Early works to 1800.</term>
+               <term>Law --  England --  Indexes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:22443:1"/>
+            <pb facs="tcp:22443:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g> A Table to al the Statutes made from <hi>the beginning of the raigne of</hi> Kyng Edwarde the .vi. vnto this <hi>preſent .xii. yeare of the reigne of oure moſte gratious and ſoueraigne Ladye Queene Elizabeth.</hi>
+            </p>
+            <p>In aedibus Richardi Tottelli.</p>
+            <p>Cum priuilegio.</p>
+         </div>
+      </front>
+      <body>
+         <div type="index">
+            <pb facs="tcp:22443:2"/>
+            <pb facs="tcp:22443:2"/>
+            <head>THE TABLE.</head>
+            <list>
+               <head>A.</head>
+               <item>
+                  <seg rend="decorInit">A</seg>Bſtinence. An. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>19.</hi>
+               </item>
+               <item>Acceſſarie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>24.</hi>
+               </item>
+               <item>Accompt <hi>2.</hi> E. <hi>6.</hi> ca. <hi>4.</hi> &amp; ca. <hi>34.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Accuſation. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Accuſers. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Acquitance. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>7.</hi> &amp; ca. <hi>8.</hi>
+               </item>
+               <item>Actions to continue after the deathe of the kyng. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Action of Det. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>18.</hi>
+               </item>
+               <item>Admiralty. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Adnulling of action. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Aged &amp; impotent perſons. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Almes boxe. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Alnage. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Alnageour. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Alnageors in Lancaſhire. <hi>8.</hi> Eliz. ca. <hi>12.</hi>
+               </item>
+               <item>Allowance of Shirifes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>34.</hi>
+               </item>
+               <item>Ambition. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Amercement <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Anniuerſarie. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Annuall pention. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Annuitie. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et <hi>2.</hi> E. <hi>6.</hi> ca. <hi>7.</hi> Et <hi>3.</hi> E. <hi>6.</hi> ca. <hi>18.</hi>
+               </item>
+               <item>Anthonie Hungerforde. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>17.</hi>
+               </item>
+               <item>Apothecarie. <hi>1.</hi> M. Par<g ref="char:cmbAbbrStroke">̄</g>. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Apparance in Iuries. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>32.</hi>
+               </item>
+               <item>Apparell. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp; M. ca. <hi>2.</hi> Et. <hi>5.</hi> Eliza. cap. <hi>6.</hi>
+               </item>
+               <item>Appele of murder. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>24.</hi>
+               </item>
+               <item>Appeales in Ciuile and marine cauſes <hi>8.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>Apprentices. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>22.</hi> Et <hi>5.</hi> E. <hi>6.</hi> ca. <hi>8</hi> Et <hi>4.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>Arable land. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Archebiſhop of Yorke. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Armure. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. cap. <hi>2.</hi>
+               </item>
+               <item>Artificers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi> &amp; <hi>5.</hi> Eliz. cap. <hi>4.</hi>
+               </item>
+               <item>Artificers cutting Leather. <hi>5.</hi> Eliz. ca. <hi>8.</hi>
+               </item>
+               <item>Artillarie, <hi>5.</hi> E. <hi>6.</hi> cap. <hi>11.</hi>
+               </item>
+               <item>Aſſemblees. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Aſſ. of no. diſſ. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Aſſiſe of wood. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>7.</hi>
+               </item>
+               <item>Atteintes. <hi>5.</hi> E. <hi>6.</hi> ca <hi>17.</hi> Et <hi>2.</hi> &amp; <hi>3.</hi> P. &amp; M. ca <hi>21.</hi> Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp; M. ca. <hi>5.</hi> Et <hi>1.</hi> Eliz. ca. <hi>18.</hi>
+               </item>
+               <item>Atteinder <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi> &amp; ca. <hi>17.</hi> Et <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et M. <hi>1.</hi> Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> &amp; ca. <hi>16.</hi> Et <abbr>parl.</abbr> 
+                  <hi>2.</hi> ca. <hi>12.</hi> Et <hi>1.</hi> &amp; <hi>2.</hi> P. et M. ca. <hi>6.</hi>
+               </item>
+               <item>Atturney. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>32.</hi>
+               </item>
+               <item>Auditor and Auditors. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>1.</hi> &amp;. ca. <hi>3.</hi>
+               </item>
+               <item>Azuers. <hi>5.</hi> E. <hi>6.</hi> capitu. <hi>6.</hi>
+               </item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>BAdger. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Bagſhot. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Bailliffe. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> Et <hi>3.</hi> E. <hi>6.</hi> cap. <hi>3.</hi> &amp; ca. <hi>16.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp; ca. <hi>5.</hi>
+               </item>
+               <item>Bailling of priſoners. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp;. M. ca. <hi>13.</hi>
+               </item>
+               <item>Ballaſt. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>29.</hi>
+               </item>
+               <item>Baker. <hi>2.</hi> E. <hi>6.</hi> ca <hi>15.</hi>
+               </item>
+               <item>Barels &amp; Kilderkins. <hi>8.</hi> Eliz. ca. <hi>9.</hi>
+               </item>
+               <item>Barrelled fiſhe. <hi>5.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>Barke. <hi>5.</hi> Eliz. ca. <hi>8.</hi>
+               </item>
+               <item>Barne. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Barren heath. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Barton lands. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Barwick <hi>5.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Beaſts tythable. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>13.</hi>
+               </item>
+               <item>Beggers. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>16.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Bell mettall. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>38.</hi>
+               </item>
+               <item>Benefit of Clergie. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>12.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>10.</hi>
+               </item>
+               <item>Benet Smith. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. cap. <hi>17.</hi>
+               </item>
+               <item>Billes of acquittance. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Biſhops. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp;. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp; ca. <hi>19</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp; ca. <hi>5.</hi> &amp; ca. <hi>10.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp; ca. <hi>2.</hi> &amp; ca. <hi>3.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp; ca. <hi>4.</hi> &amp;. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Biſhop of Rome. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>36.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>1.</hi>
+               </item>
+               <item>Bigamie. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Billet. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>7.</hi>
+               </item>
+               <item>Blewes. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Bondman. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>3.</hi>
+               </item>
+               <item>Boodget maker. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Booke of comon prayer. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et. <hi>3</hi> E. <hi>6.</hi> cap. <hi>6..</hi>
+               </item>
+               <item>Bookes. M. <hi>1.</hi> par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Bootes &amp; buſkyns. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> &amp;. ca. <hi>14.</hi>
+               </item>
+               <item>Bottel maker. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et <hi>3.</hi> E. <hi>6.</hi> ca. <hi>6</hi>
+               </item>
+               <item>Boteſwayne. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+               <item>Benches. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> &amp; ca. <hi>14.</hi>
+               </item>
+               <item>Bowyers. <hi>8.</hi> Eliz. cap. <hi>10.</hi>
+               </item>
+               <item>Braſſe. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>38.</hi>
+               </item>
+               <item>Breaking of an houſe. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>12.</hi>
+               </item>
+               <item>Brewers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> &amp; cap. <hi>15.</hi>
+               </item>
+               <item>Brickmakers &amp; Briclayers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>20.</hi>
+               </item>
+               <item>Bridges. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>5.</hi>
+               </item>
+               <item>Bridgewater. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Bridgewater clothes. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>12.</hi>
+               </item>
+               <item>Briſtow cauſey. <hi>1.</hi> M. Par. <hi>2.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:3"/>
+Brode cloth. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Buggerie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>29.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>17.</hi>
+               </item>
+               <item>Bulwarke. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Butchers. <hi>5.</hi> Eliz. ca. <hi>8.</hi>
+               </item>
+               <item>Butlarage. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>22.</hi>
+               </item>
+               <item>Butter. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>21.</hi> Et <hi>5.</hi> E. <hi>6.</hi> cap. <hi>14.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Butter &amp; Cheeſe. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et Par. <hi>2.</hi> ca. <hi>12.</hi> Et. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp; M. ca. <hi>16.</hi> Et. <hi>2.</hi> &amp; <hi>3.</hi> P. &amp; M. cap. Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp; M. cap. <hi>9.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>18.</hi>
+               </item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>Cables &amp; halters. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>17.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Caleis. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi> &amp; ca. <hi>39.</hi> Et <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> &amp; ca. <hi>16.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp;. ca. <hi>7.</hi> Et. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. ca. <hi>21.</hi> Et. <hi>4.</hi> &amp; <hi>5.</hi> P. &amp; M. ca. <hi>9.</hi>
+               </item>
+               <item>Calues. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>19.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et <hi>1.</hi> Eliz. ca. <hi>18.</hi>
+               </item>
+               <item>Calues ſkyns. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Camber. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>30.</hi>
+               </item>
+               <item>Cambridge. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Canterburie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Capias. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Capias vtlagatum. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.</hi>
+               </item>
+               <item>Captaines. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Cappes. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Carders. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Carier. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Cariage. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Carying ouer of corne victuall and wood. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. cap. <hi>5.</hi>
+               </item>
+               <item>Carpenter. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Carrek. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>13.</hi>
+               </item>
+               <item>Carſeis. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Caſtell. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>16.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>11.</hi>
+               </item>
+               <item>Caſtel of the holt. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>18.</hi>
+               </item>
+               <item>Caſtelles and groundes towardes Scot<g ref="char:EOLhyphen"/>land. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>1.</hi>
+               </item>
+               <item>Cathedrall churches. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>1.</hi> M Par. <hi>2.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Cenſures of the Churche. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et <hi>2.</hi> E. <hi>6.</hi> cap. <hi>3.</hi>
+               </item>
+               <item>Certificat. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.</hi> Et <hi>5.</hi> E. <hi>6.</hi> cap. <hi>2.</hi> &amp; ca. <hi>25.</hi> Et <hi>7.</hi> E. <hi>6.</hi> ca. <hi>4.</hi>
+               </item>
+               <item>Challenge. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Chamberlaine. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Chancellor of England. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> &amp;. ca. <hi>13</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp; ca. <hi>16.</hi>
+               </item>
+               <item>Chancellor of the duchie of Lancaſter. <hi>3.</hi> E <hi>6.</hi> ca. <hi>1.</hi> Et <hi>5.</hi> E. <hi>6.</hi> cap. <hi>26.</hi>
+               </item>
+               <item>Chaſe. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>17.</hi> Et <hi>5.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Chaſtitie. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>21.</hi>
+               </item>
+               <item>Chauntries. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Checke carſey. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Cheeſe. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>21.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>14.</hi> Et <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et. pat. <hi>2.</hi> cap. <hi>12.</hi> Et. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp; M. ca. <hi>16.</hi>
+               </item>
+               <item>Cheſter. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> Et <hi>2.</hi> E. <hi>6.</hi> ca. <hi>31.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Chiefe Iuſtices. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Chief Baron of the Eſcheker. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Children. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Cinke portes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>22.</hi>
+               </item>
+               <item>Citations. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Citie of London. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Clemency. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Clergy. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi> &amp;. ca. <hi>20.</hi> &amp;. ca. <hi>29.</hi> &amp; ca. <hi>33</hi> &amp; <hi>35.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> &amp;. ca. <hi>10.</hi> Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. ca. <hi>16.</hi>
+               </item>
+               <item>Clergy taken away from certein felons. <hi>8.</hi> Eliz. cap. <hi>4.</hi>
+               </item>
+               <item>Clerke. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>5.</hi>
+               </item>
+               <item>Clerke of the peace. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>16.</hi>
+               </item>
+               <item>Clerke conuict. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> &amp; ca. <hi>12.</hi>
+               </item>
+               <item>Clipping of coigne. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Clipping, waſhing, rounding or filinge of coyne. <hi>5.</hi> Eliz. ca. <hi>11.</hi>
+               </item>
+               <item>Clothes. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Clothes tra<g ref="char:cmbAbbrStroke">̄</g>ſportig vnwrought. <hi>8.</hi> El. ca. <hi>6.</hi>
+               </item>
+               <item>Clothworkers. <hi>8.</hi> Eliz. ca. <hi>6.</hi>
+               </item>
+               <item>Clothier &amp; clothmaker. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi> &amp; ca. <hi>22.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>9.</hi>
+               </item>
+               <item>Cobham. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Coblar. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>9.</hi>
+               </item>
+               <item>Cold preſſe. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Coles. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>7.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>15.</hi>
+               </item>
+               <item>Collation of Biſhopricks. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Collector. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi> Et <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Collectors of tenthes. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>4.</hi>
+               </item>
+               <item>Collectors of charitable almes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Colleges. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Colours. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Coloured clothes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Commiſſion. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>7.</hi> &amp;. ca. <hi>14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Commiſſioner. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Commiſſion of Sewers. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Commiſſion of peace &amp; gaole deliuerye in townes corporat. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>18.</hi>
+               </item>
+               <item>Common law. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Common place. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.</hi>
+               </item>
+               <item>Common prater. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Commons. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>3.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:3"/>
+Commotion. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Comptroller. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+               <item>Concelement. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Confirmation of letters patents. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. cap. <hi>1.</hi>
+               </item>
+               <item>Conge deſtier. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Coines. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>5.</hi>
+               </item>
+               <item>Coniuration. <hi>5.</hi> Eliz. ca. <hi>16.</hi>
+               </item>
+               <item>Conſecrating of Biſhops. &amp;c. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>12.</hi> Et. <hi>8.</hi> Eliz. ca. <hi>1.</hi>
+               </item>
+               <item>Conſpiracie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Conſtable. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> Et <hi>3.</hi> E. <hi>6.</hi> cap. <hi>16.</hi>
+               </item>
+               <item>Conſultation. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Cookes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Copie of court rolle. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Copie holde land. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Copyholder. <hi>8.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Copper. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>38.</hi>
+               </item>
+               <item>Cordwainer. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et <hi>5.</hi> E. <hi>6.</hi> cap. <hi>15.</hi>
+               </item>
+               <item>Coriers. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>9.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>6.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>8.</hi> &amp; ca. <hi>18.</hi> Et. <hi>5.</hi> Eliza. ca. <hi>8.</hi>
+               </item>
+               <item>Corying. M. <hi>1.</hi> Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et Par. <hi>2</hi> ca, <hi>8.</hi> &amp; ca. <hi>12.</hi> Et. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. cap. <hi>16.</hi>
+               </item>
+               <item>Corne. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>5.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Cornewall. <hi>7.</hi> E. <hi>6,</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Corporation. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Coſterdmunger. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Coſts for the defendant. <hi>8.</hi> Eliz. ca. <hi>2.</hi>
+               </item>
+               <item>Cottons. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Cottons friſes &amp; rugges. <hi>8.</hi> Eliz. ca. <hi>12.</hi>
+               </item>
+               <item>Couenant. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Couerlets. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>24.</hi>
+               </item>
+               <item>Counterfeiting or forging of coigne. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi> Et. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>6.</hi> Et. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp;. M. cap. <hi>10.</hi>
+               </item>
+               <item>Countie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>24.</hi> &amp;. ca. <hi>25.</hi>
+               </item>
+               <item>Countie of Norfolke. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Countie palantine. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>10.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>28.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>26.</hi>
+               </item>
+               <item>Court of Augmentation. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>7</hi> E. <hi>6.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Court of the Eſchequer. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Court of the kings wards. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Court of y<hi rend="sup">e</hi> general ſurueighors. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>2</hi>
+               </item>
+               <item>Court of the duchie of La<g ref="char:cmbAbbrStroke">̄</g>caſter. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Court of firſt frutes &amp; tenthes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>20.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Courtes newly erected. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> cap. <hi>20.</hi>
+               </item>
+               <item>Craftes. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Creation. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Croſſebowe. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Crowne. <hi>1.</hi> M. par. <hi>2.</hi> ca. <hi>1.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>3.</hi> Et. <hi>5.</hi> Eliz. cap. <hi>1.</hi>
+               </item>
+               <item>Crowes. &amp;c. <hi>8.</hi> Eliz. ca. <hi>15.</hi>
+               </item>
+               <item>Curate. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Cuſtome. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> &amp;. ca. <hi>22.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>11</hi>
+               </item>
+               <item>Cuſtomer. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Cuſtomarie tenants. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>12.</hi>
+               </item>
+               <item>Cuſtomarie holder. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Cutpurſes. <hi>8.</hi> Eliz. ca. <hi>4.</hi>
+               </item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>DEane. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Deathes of Iuſtices. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Deniſo<g ref="char:cmbAbbrStroke">̄</g>s <hi>2.</hi> E. <hi>6.</hi> ca. <hi>22.</hi> Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. ca. <hi>6.</hi>
+               </item>
+               <item>Deere. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>21.</hi>
+               </item>
+               <item>Defendants to recouer coſts being wrong<g ref="char:EOLhyphen"/>fully vext. <hi>8.</hi> Eliz. ca. <hi>2.</hi>
+               </item>
+               <item>Dettes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Deuonſhire. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>9.</hi>
+               </item>
+               <item>Deuorce. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>12.</hi>
+               </item>
+               <item>Diers of cloth. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Diſtreſſe. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>8.</hi>
+               </item>
+               <item>Doles of Fiſhe. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Dornecks. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>24.</hi>
+               </item>
+               <item>Douehouſes. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>5.</hi>
+               </item>
+               <item>Douſens. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Dower. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>17.</hi>
+               </item>
+               <item>Dowrie. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>11.</hi> &amp;. <hi>12.</hi>
+               </item>
+               <item>Draperie. <hi>1.</hi> M. Par. <hi>2.</hi> ca. <hi>7.</hi> Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. cap. <hi>5.</hi> Et. <hi>1.</hi> Eliz. cap. <hi>14.</hi>
+               </item>
+               <item>Drye leather. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>9.</hi>
+               </item>
+               <item>Drying. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Drouers. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>5.</hi> Eliz. cap. <hi>12.</hi>
+               </item>
+               <item>Duchie of Lancaſter. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. cap. <hi>20.</hi>
+               </item>
+               <item>Durham biſhopricke. <hi>1.</hi> M. Par. <hi>2.</hi> ca. <hi>3.</hi>
+               </item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>ECcleſiaſtical lawes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>1.</hi>
+               </item>
+               <item>Edwarde Duke of Somerſet. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Egges of wildfoule. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Egiptians. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp; M. ca. <hi>4</hi> Et. <hi>5.</hi> El. ca. <hi>20.</hi> Election of Biſhops. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Enchauntments. <hi>5.</hi> Eliz. ca. <hi>16.</hi>
+               </item>
+               <item>Encreaſe of tillage. <hi>2.</hi> &amp; <hi>3.</hi> P. &amp; M. ca. <hi>1.</hi>
+               </item>
+               <item>Engroſſer. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Enrolment. <hi>3.</hi> E. <hi>6.</hi> capitu. <hi>4.</hi>
+               </item>
+               <item>Enterludes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:4"/>
+Eſcheker. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>4.</hi> &amp; cap. <hi>23.</hi>
+               </item>
+               <item>Eſchetor. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> &amp;. ca. <hi>5</hi>
+               </item>
+               <item>Etate probanda. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>4.</hi>
+               </item>
+               <item>Eton. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Euenſong. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Examination of beggers. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Exchaunge. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>19.</hi>
+               </item>
+               <item>Exigend. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>26.</hi>
+               </item>
+               <item>Exco<g ref="char:cmbAbbrStroke">̄</g>municat<g ref="char:cmbAbbrStroke">̄</g>. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>4</hi>
+               </item>
+               <item>Excommunicato capiendo. <hi>5.</hi> Eliz. ca. <hi>23.</hi>
+               </item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>FAgot. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>7.</hi>
+               </item>
+               <item>Faire. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Faſting daies. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Fee. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Fee ſimple. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Fee fermes. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>18.</hi>
+               </item>
+               <item>Felles. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Felony. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> &amp;. ca. <hi>11.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi> &amp;. ca. <hi>24.</hi> &amp;. ca. <hi>29.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>1.</hi> ca. <hi>1.</hi> Et. <hi>5.</hi> El. ca. <hi>14.16.17.20</hi>
+               </item>
+               <item>Felonons ſtealing of an horſe. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>33</hi>
+               </item>
+               <item>Feltes. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>23.</hi>
+               </item>
+               <item>Fetherbeds bolſters &amp;c. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>23.</hi>
+               </item>
+               <item>Fermour. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>5.</hi>
+               </item>
+               <item>Fiues. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>4.</hi>
+               </item>
+               <item>Firſt frutes &amp; tenthes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> &amp;. ca. <hi>14.2.</hi> E. <hi>6.</hi> ca. <hi>20..</hi> E. <hi>.2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>4.</hi> Et <hi>1.</hi> Eliz. cap. <hi>4.</hi>
+               </item>
+               <item>Fiſh. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>19.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> &amp; ca. <hi>17.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca <hi>13.</hi> Et. <hi>1.</hi> El. ca. <hi>17.</hi> Et. <hi>5.</hi> El. ca. <hi>5.</hi> &amp;. ca. <hi>21.</hi>
+               </item>
+               <item>Fiſherman. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>3.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>Fiſhing on the ſea. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Fiſh pond or poole. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Flar. <hi>5.</hi> Eliz. cap. <hi>5.</hi>
+               </item>
+               <item>Fleſh eatyng. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>19.</hi>
+               </item>
+               <item>Foreſt. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>17.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Foreſt whites. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Forein wares. <hi>5.</hi> Eliz. ca. <hi>7.</hi>
+               </item>
+               <item>Forfeture. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.5.10.11.13.14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.2.3.6.7.9.10.11.13.14.15.19.22.26.27 30.34.38.39.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.6.9.10.19.21.22.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> ſepius. <hi>7.8.14.15.20.22 23.24.25.26.</hi>
+               </item>
+               <item>Forging of deedes. <hi>5.</hi> Eliz. ca. <hi>14.</hi>
+               </item>
+               <item>Forſtallers. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>11.</hi> Et. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et. par. <hi>2.</hi> ca <hi>12.</hi> Et. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp;. M. cap. <hi>16.</hi>
+               </item>
+               <item>Fortreſſe. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>16.</hi>
+               </item>
+               <item>Fraye makers. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>4.</hi>
+               </item>
+               <item>Fraternities. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Frenche king. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Friſes. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Fullar. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>22.</hi>
+               </item>
+               <item>Fulling mille. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Fuſtian. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. cap. <hi>14.</hi>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>GAddes of Iron. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>27.</hi>
+               </item>
+               <item>Galley. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>13.</hi>
+               </item>
+               <item>Gaoles. M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>14.</hi> Et. <hi>5.</hi> Eliz. capitu. <hi>24.</hi>
+               </item>
+               <item>Gateſide. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>10.</hi>
+               </item>
+               <item>Geldings. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Gentleman ſouldiour. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Gifts. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Gigge milles. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>22.</hi>
+               </item>
+               <item>Girdler. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> capitu. <hi>15.</hi>
+               </item>
+               <item>Glamſfordes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Glaſier. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Goates. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Gods ſeruice. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Goods &amp; cattels of Colleges. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Goſpell. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>19.</hi>
+               </item>
+               <item>Grace Sharington. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>17.</hi>
+               </item>
+               <item>Grammer ſchooles. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Graueſend. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>5.</hi>
+               </item>
+               <item>Ground incloſed. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Gunne mettal. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>HAyle ſhotte. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Halfe hake. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Halles. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Handwarps. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Handy crafts men. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi> &amp;. <hi>15.</hi>
+               </item>
+               <item>Handgunnes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Hard Hewer. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Hattes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>24.</hi> Et. <hi>8.</hi> Eliz. ca. <hi>11.</hi>
+               </item>
+               <item>Hattes &amp; cappes. <hi>1.</hi> M. Par. <hi>1.</hi> Seſſ. <hi>2.</hi> cap. <hi>11.</hi>
+               </item>
+               <item>Hatte makers. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Hawkes. <hi>5.</hi> Eliz. ca. <hi>2.</hi>
+               </item>
+               <item>Head officers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Heaths. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>5.</hi>
+               </item>
+               <item>Hemp. <hi>5.</hi> Eliz. cap. <hi>5.</hi>
+               </item>
+               <item>Hereforde milles. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>14.</hi>
+               </item>
+               <item>Hereſies. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp;. M. ca. <hi>6.</hi>
+               </item>
+               <item>Herings. <hi>5.</hi> Eliz. cap. <hi>5.</hi>
+               </item>
+               <item>Heyfers. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>19.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:4"/>
+Hides in the heare. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Hides of Cow &amp; ſtere. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Holy dayes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Horſes &amp; mares. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>17.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et par. <hi>2.</hi> ca. <hi>12.</hi> et <hi>1.</hi> &amp; <hi>2.</hi> P. &amp; M. ca. <hi>16</hi>
+               </item>
+               <item>Horſes <hi>4.</hi> &amp; <hi>5.</hi> P. &amp; M. ca. <hi>2</hi>
+               </item>
+               <item>Horſes ſtollen. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. ca. <hi>7.</hi>
+               </item>
+               <item>Horſes into Scotland. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>21.</hi> Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. ca. <hi>9.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>7.</hi>
+               </item>
+               <item>Horſes tranſporting. <hi>5.</hi> Eliz. ca. <hi>19.</hi>
+               </item>
+               <item>Horſes ſtature. <hi>8.</hi> Eliz. ca. <hi>8.</hi>
+               </item>
+               <item>Hoſpitalles. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Hoſtelles. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Houſes buylded in Comons or waſte groundes. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Houſes of huſbandrie. <hi>1.</hi> Eliz. ca. <hi>18.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>2.</hi>
+               </item>
+               <item>Hunting. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>17.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>17.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Huſbandrie &amp; tyllage. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>2.</hi>
+               </item>
+               <item>Huſbandrie. <hi>5.</hi> Eliz. ca. <hi>3.4.</hi>
+               </item>
+               <item>Huſbandrie &amp; tillage. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>2.</hi>
+               </item>
+               <item>Hygh waies. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. ca. <hi>8.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>13.</hi>
+               </item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>IDleneſſe. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi> Idle perſons. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Images. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> cap. <hi>2.</hi>
+               </item>
+               <item>Impriſonment. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>1.2.5.12.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.3.14.15.19.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>3.5.15.22.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>19.20.21.25.</hi>
+               </item>
+               <item>Improuement. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Indenture. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Inditement. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>24.</hi>
+               </item>
+               <item>Information. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Inholder. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>21.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Inquiſition. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Interruption. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Interrupting of preachers &amp; prieſtes. <hi>1.</hi> M par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Ioyner. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Iourney man. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>22.</hi>
+               </item>
+               <item>Iron Cardes. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Iſle of man. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Iudgement. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Iurie de Circumſtantibus. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. ca. <hi>7.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>25.</hi>
+               </item>
+               <item>Iuſtices of peace. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.3.5.12.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.10.11.14.24.29.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>3.5.15.16.22.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.14.25.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Iuſtices of oyer &amp; determiner &amp; of Aſſiſe. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>7.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.7.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>15.22.</hi>
+               </item>
+               <item>Iuſtices of Aſſiſe &amp; of peace. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>1.4.</hi>
+               </item>
+               <item>Iuſtice of Gaole deliuerie &amp; of peace. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>KEeper of the greate ſeale. <hi>5.</hi> Elizabeth cap. <hi>18.</hi>
+               </item>
+               <item>Kidder. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Kiddes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Killing of weanelinges. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>17.</hi> Et <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et par. ca. <hi>12.</hi> Et. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. ca. <hi>16.</hi>
+               </item>
+               <item>Kien. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>19.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Knightes of the garter. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Kyng. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>11.12.</hi>
+               </item>
+               <item>Kynges bench. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.</hi>
+               </item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>LAborers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>4.</hi>
+               </item>
+               <item>Lader. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Ladie Elizabeth. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>18.</hi>
+               </item>
+               <item>Lame perſons. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Lampe. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Latitat. <hi>8.</hi> Eliz. ca. <hi>2.</hi>
+               </item>
+               <item>Lawe. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>24.</hi>
+               </item>
+               <item>Leadon hall in London. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Leaſes. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>3.</hi>
+               </item>
+               <item>Leaſes by ſpiritual me<g ref="char:cmbAbbrStroke">̄</g>. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp;. M. ca. <hi>17</hi>
+               </item>
+               <item>Leather. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et par. <hi>2.</hi> ca. <hi>8.12.</hi> Et. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. ca. <hi>16.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>8.9.10.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>8.22.</hi> Et. <hi>8.</hi> Eliz. ca <hi>14.</hi>
+               </item>
+               <item>Leather &amp; leather ſeller. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Lent. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Leprous &amp; bedred creatures. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Lete. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Letters patentes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.8.11.14.</hi> Et <hi>2.</hi> E. <hi>6.</hi> ca. <hi>6.7.16.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>1.4.13.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>2.3.</hi>
+               </item>
+               <item>Libell. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Licence. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.7 9.19.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.15.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:5"/>
+Lieutenant, <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.3.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Light. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Lime burner. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20</hi>
+               </item>
+               <item>Limitation of preſcriptio<g ref="char:cmbAbbrStroke">̄</g>. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Linen cloth. <hi>1.</hi> Eliz. ca. <hi>12.</hi>
+               </item>
+               <item>Liuerie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>London. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Long worſtedes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Lordes Supper. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Lord of the parliament. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Lord deputie of Calice. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>39</hi>
+               </item>
+               <item>Lord Treaſurer. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>4</hi>
+               </item>
+               <item>Lords marchers. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.</hi>
+               </item>
+               <item>Lordes marchers in Wales. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M cap. <hi>15.</hi>
+               </item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>MAire. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.16.22.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>22.</hi>
+               </item>
+               <item>Maire &amp; Iurates of Rie &amp; Winſhelſey. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>29.</hi>
+               </item>
+               <item>Maire &amp; Aldermen of Caleis. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>39.</hi>
+               </item>
+               <item>Maire of London. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Maire &amp; aldermen of London. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9</hi>
+               </item>
+               <item>Maire &amp; Recorder of Yorke. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>9</hi>
+               </item>
+               <item>Malt. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> cap. <hi>13.</hi>
+               </item>
+               <item>Malt making. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>10.</hi>
+               </item>
+               <item>Mancheſter. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Manor of leight. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>17.</hi>
+               </item>
+               <item>Marchant. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Marchant of the ſtaple. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Marchant ſtraunger. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>22.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Marchant Tailor. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.7</hi>
+               </item>
+               <item>Marchantes of the haunſe. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Marchandiſe. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>11</hi>
+               </item>
+               <item>Marke or Seale. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Markettes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9. 11.</hi>
+               </item>
+               <item>Marking on the breſt. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Mariage. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>21.23.</hi>
+               </item>
+               <item>Mariage tithes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Mariage of prieſtes. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Mariners. <hi>5.</hi> Eliz. ca. <hi>5.</hi> Et. <hi>8.</hi> Eliz. ca. <hi>13.</hi>
+               </item>
+               <item>Marches. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Mary Seymor. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Maſon. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>23.</hi>
+               </item>
+               <item>Maſſe. <hi>5.</hi> Eliz. ca. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+               <item>Maſter of the horſes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Maſter of the poſtes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Mattyns. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Maydens within age. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp; M. cap. <hi>7.</hi>
+               </item>
+               <item>Meaſuring of cloth. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Melius Inquirendum. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Middill vffe yarne. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Milche kine. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. ca. <hi>10.</hi> Et. <hi>1.</hi> Eliz. cap. <hi>18.</hi>
+               </item>
+               <item>Miniſtracion of the Sacramentes in bothe kindes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Minoritie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Miſpriſion of Treaſon. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>1.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Miſrecitall or miſnaming. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Money. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Monſtrance de droit. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Mortmaine. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. cap. <hi>8.</hi>
+               </item>
+               <item>Mowburnte barley. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>10.</hi>
+               </item>
+               <item>Murder. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Murderers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>24.</hi>
+               </item>
+               <item>Muſters. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp; M. ca. <hi>3.</hi>
+               </item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>NArrow ſtreites. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Narrow cloth. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Nauie. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>18.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>New caſtell vpon tyne. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>10</hi>
+               </item>
+               <item>Nief. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Norffolke. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Northerne cloth. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Norwich. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>7.24.</hi>
+               </item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>OBite. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Obligation. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+               <item>Office. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>8.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Offring dayes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Open praier. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Orders. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Ordering of Eccleſiaſticall miniſters. <hi>1.</hi> M par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Ordinarie. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>1.13.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>4.</hi>
+               </item>
+               <item>Orphanes. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>23.</hi>
+               </item>
+               <item>Othe. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>1.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>1.</hi>
+               </item>
+               <item>Ouerſeers for cloth making. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Ouger &amp; Greenſted in Eſſex. <hi>1.</hi> M. par. <hi>2.</hi> ca. <hi>10.</hi>
+               </item>
+               <item>Owtlawrie. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>11.26</hi>
+               </item>
+               <item>Owner. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+               <item>Oxe hide. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:5"/>
+Oxen. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>19.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Oxford. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Ozis. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>PAn mettall. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi> Pardon. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>11.15.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>37.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>24.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>27.</hi> Et. <hi>8.</hi> Eliz. ca. <hi>18.</hi>
+               </item>
+               <item>Pariſhe Churche. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Parke. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.17.</hi>
+               </item>
+               <item>Parlament. <hi>5.</hi> Eliz. ca. <hi>1.</hi>
+               </item>
+               <item>Particulers. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Paſſe portes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Paſture. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Patentes and writinges ſygned by the Queene. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp;. M. ca. <hi>1.</hi>
+               </item>
+               <item>Patentees. <hi>1.</hi> E. <hi>6.</hi> cap. <hi>8.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>4.18.</hi>
+               </item>
+               <item>Patronage. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Pauior. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Pauing. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+               <item>Pedler. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>21.</hi>
+               </item>
+               <item>Peeres of the Realme. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi> Et. <hi>2</hi> E. <hi>6.</hi> cap. <hi>1.</hi>
+               </item>
+               <item>Peltes. <hi>5.</hi> Eliz. ca. <hi>22.</hi> Et. <hi>8.</hi> Eliz. ca. <hi>14.</hi>
+               </item>
+               <item>Pencions. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Penniſtones. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Periurie. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>9.</hi>
+               </item>
+               <item>Petite treaſon. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>1.</hi> M. par. <hi>1</hi> Seſſ. <hi>1.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Phiſitians. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Pianor. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Pillorie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Plaies. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Plaiſterer. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Plummer. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Plunkets. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Pondage. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Poore people. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Portriue. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Poulter. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Pounding of diſtreſſes. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp;. M. cap. <hi>12.</hi>
+               </item>
+               <item>Powdicke. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. ca. <hi>19.</hi>
+               </item>
+               <item>Praiers. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Preachers. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.14.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Preaſt or lone. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Precept <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Precontract. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>23.</hi>
+               </item>
+               <item>Premunire. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>1.</hi> ca. <hi>1.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>1.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>1.</hi>
+               </item>
+               <item>Prerogatiue. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Preſentment. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Preſeruacion of graine. <hi>8.</hi> Eliz. ca. <hi>15.</hi>
+               </item>
+               <item>Prieſtes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>21.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Primers. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>10.</hi>
+               </item>
+               <item>Principalitie of Wales. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Priſage. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>22.</hi>
+               </item>
+               <item>Proceſſe Eccleſiaſticall. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Proces Iudiciall. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Proclamation. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.12.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.11.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>7.26.</hi>
+               </item>
+               <item>Proclamation vppon fines. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Proctor. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Procuring of men to riſe. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Prohibition. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.21.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Promocion. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Propheſies. <hi>5.</hi> Eliz. ca. <hi>15.</hi>
+               </item>
+               <item>Propheſies phantaſticall. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Prouoſt. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Pſalme. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Purſer. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+               <item>Purueyor or taker. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>3.</hi> Et. <hi>2.</hi> et <hi>3.</hi> P. &amp; M. ca. <hi>6.15.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>Puruciors of tymber. <hi>5.</hi> Eliz. ca. <hi>8.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>QVeene. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>1.</hi> Et par. <hi>2.</hi> ca. <hi>1.2.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>3.</hi>
+               </item>
+               <item>Quilt. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>23.</hi>
+               </item>
+               <item>Quiſhions. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>23.</hi>
+               </item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>RAge of water. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Rebellion. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>12.</hi> Et par. <hi>2.</hi> ca. <hi>12.</hi> Et. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp;. M. ca. <hi>16.</hi>
+               </item>
+               <item>Rebellious aſſemblies. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp;. M. cap. <hi>21.</hi> Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. cap. <hi>9.</hi> Et. <hi>1.</hi> Eliz. cap. <hi>18.</hi>
+               </item>
+               <item>Receyuor. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>7.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Recogniſa<g ref="char:cmbAbbrStroke">̄</g>ce. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>31.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>25.</hi>
+               </item>
+               <item>Regrator. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> cap. <hi>13.</hi> Et par. <hi>2.</hi> ca. <hi>12.</hi> Et. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. ca. <hi>16.</hi>
+               </item>
+               <item>Regrators, Forſtallers &amp; Ingroſſers. <hi>2.</hi> &amp; <hi>3.</hi> P. &amp;. M. ca. <hi>21.</hi> Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp;. M. ca. <hi>9.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>18.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>Relief. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>26.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>23.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:6"/>
+Reliefe of poore people. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>5.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>23.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> cap. <hi>13.</hi> Et par. <hi>2.</hi> cap. <hi>12.</hi> Et. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. ca. <hi>3.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>18.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>3.</hi>
+               </item>
+               <item>Religion. <hi>1.</hi> M. par. <hi>1.</hi> ca. <hi>2.3.</hi> Et. <hi>1.</hi> Eliza. cap. <hi>1.</hi>
+               </item>
+               <item>Religious perſons. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Rentes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Repeale. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>11.12.</hi>
+               </item>
+               <item>Reſceit. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Retaile. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>21.</hi>
+               </item>
+               <item>Retailers of Woolles. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Reuocation. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Rewarde. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Reyſing of people. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Rie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>30.</hi>
+               </item>
+               <item>Ring of Iron. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Robbing. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Rome. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp;. M. ca. <hi>8.</hi>
+               </item>
+               <item>Ronts. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>19.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Ropes. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Rother beaſtes. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et par. <hi>2.</hi> ca. <hi>12.</hi> Et. <hi>1.</hi> &amp;. <hi>2</hi> P. &amp; M. ca. <hi>16.</hi> Et. <hi>2.</hi> &amp; <hi>3.</hi> P. &amp; M. ca. <hi>21.</hi> Et <hi>4.</hi> &amp; <hi>5.</hi> P. &amp; M. ca. <hi>9.</hi> Et. <hi>1.</hi> Eliza. ca. <hi>18.</hi>
+               </item>
+               <item>Rugges. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Ruſſell Sattens &amp;c. in Norwich. <hi>1.</hi> &amp;. <hi>2.</hi> P &amp; M. ca. <hi>14.</hi>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>SAdler. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et <hi>5.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Sacrament of the aultar. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Sacramentes. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.3.</hi>
+               </item>
+               <item>Sanctuarie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.29.33.</hi> Et. <hi>5.</hi> E. <hi>6</hi> cap. <hi>10.</hi>
+               </item>
+               <item>Sainct Elens churche in Yorke. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Sawier. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Schooles. <hi>1.</hi> M. par. <hi>2.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Schoole maſter. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Scire facias. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Sclaunder. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Scotland. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Scottiſhman. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Seale. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.5.12.14.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>31.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>8.12.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> quater.</item>
+               <item>Sea ſandes in Glamorganſhire. <hi>1.</hi> M. par. <hi>2.</hi> cap. <hi>1.</hi>
+               </item>
+               <item>Sea markes. <hi>8.</hi> Eliz. ca. <hi>13.</hi>
+               </item>
+               <item>Seditious woordes &amp; rumors. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. ca. <hi>21.</hi> Et. <hi>4.</hi> &amp;. <hi>5.</hi> P. &amp; M. ca. <hi>9.</hi> Et. <hi>1.</hi> &amp;. <hi>2</hi> P. &amp; M. ca. <hi>3.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>6.</hi>
+               </item>
+               <item>Selling of wares in townes. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M cap. <hi>7.</hi>
+               </item>
+               <item>Serche. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Serchers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.11.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Seruants. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>22.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>22.</hi>
+               </item>
+               <item>Seruauntes embeſeling theire maiſters goods. <hi>5.</hi> Eliz. ca. <hi>10.</hi>
+               </item>
+               <item>Seruice of the Churche. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Seruice &amp; Sacramentes. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>2.</hi>
+               </item>
+               <item>Seſſions. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Sheepe tranſporting. <hi>8.</hi> Eliz. ca. <hi>3.</hi>
+               </item>
+               <item>Sheepe ſkinnes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>19.23.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Sherborne cauſey. <hi>1.</hi> M. par. <hi>2.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Sherman. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>22.</hi>
+               </item>
+               <item>Shippes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Shipping. <hi>1.</hi> Eliz. ca. <hi>13.</hi>
+               </item>
+               <item>Shipmaſter. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+               <item>Shiriffes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>10.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>4.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.16.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>1.5.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Shireffe of Northumberland. <hi>2.</hi> E. <hi>6.</hi> cap. <hi>25.34.</hi>
+               </item>
+               <item>Shiriffes to be one in one Countie. <hi>8.</hi> Eliz. cap. <hi>16.</hi>
+               </item>
+               <item>Shrewſburie drapers &amp;c. <hi>8.</hi> Eliz. ca. <hi>7.</hi>
+               </item>
+               <item>Shooes &amp; Shoomakers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>22.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>8.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>8.</hi>
+               </item>
+               <item>Short cloth colored. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Short worceters. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Shroffe mettall. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>38.</hi>
+               </item>
+               <item>Signe manuell. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Sittyngborne. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Six articles. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Slaue. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Slippers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Souldiour. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Spinners. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Stacke of Corne. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Standing muet. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Staple of Caleys. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Statute of Marton. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Statute of Laborers. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Statute marchaunt. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>31.</hi>
+               </item>
+               <item>Stealing. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Steres. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>19.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Stertuppes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>15.</hi>
+               </item>
+               <item>Steward of the Queenes houſe. <hi>1.</hi> M. par. <hi>1</hi> cap. <hi>4.</hi>
+               </item>
+               <item>Stile of the kyng. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Stipendarie prieſt. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:6"/>
+Strangers bottoms. <hi>5.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>Straites. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6</hi>
+               </item>
+               <item>Stretching of clothes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Subſidie. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>35.</hi>
+               </item>
+               <item>Subſidie called Tonnage &amp; Pondage. <hi>1.</hi> E <hi>6.</hi> ca. <hi>13.</hi> Et. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>22.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>1.</hi>
+               </item>
+               <item>Subſidie of the laitie. <hi>2.</hi> &amp; <hi>3.</hi> P. &amp; M. ca. <hi>23.</hi> Et. <hi>4.</hi> &amp; <hi>5.</hi> P. &amp; M. ca. <hi>11.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>20.21.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>26.</hi> Et <hi>8.</hi> Eliz. cap. <hi>18.</hi>
+               </item>
+               <item>Subſidie of the Clergie. <hi>2.</hi> &amp; <hi>3.</hi> P. &amp; M. ca. <hi>22.</hi> Et. <hi>4.</hi> &amp; <hi>5.</hi> P. &amp; M. ca. <hi>10.</hi> Et <hi>5.</hi> Eliz. ca. <hi>26.</hi> Et <hi>8.</hi> Eliz. ca. <hi>17.</hi>
+               </item>
+               <item>Subſidie releaſed. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>17.</hi>
+               </item>
+               <item>Succeſſion. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Summons. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Supper of the Lorde. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Surueighour. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>7.12.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>3.</hi>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>TAllowe <hi>1.</hi> Eliz. ca. <hi>10.</hi>
+               </item>
+               <item>Talwood. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Tan hilles. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>Tanner. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.11.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>9.</hi> Et. <hi>5.</hi> Eliz. ca. <hi>8.</hi>
+               </item>
+               <item>Tanned leather. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>7.</hi> E. <hi>6.</hi> cap. <hi>11.</hi>
+               </item>
+               <item>Tailor. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>22.</hi>
+               </item>
+               <item>Tailes of rewarde. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>4.</hi>
+               </item>
+               <item>Tauerne. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Taueſtockes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Tenantes by the Curteſie. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Tent. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Tentour. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Tenures. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>4.</hi>
+               </item>
+               <item>Tenures in Capite. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Thomas Seymor. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>18.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Tiler &amp; Tile maker. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>20.</hi>
+               </item>
+               <item>Tillage. <hi>5.</hi> Eliz. ca. <hi>2.</hi>
+               </item>
+               <item>Timber. <hi>5.</hi> Eliz. ca. <hi>8.</hi>
+               </item>
+               <item>Tinne. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Tippling houſes. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>25.</hi>
+               </item>
+               <item>Tithes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Tombe. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>10.</hi>
+               </item>
+               <item>Tonnage. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Tonnage &amp; Pondage. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>18.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>19.</hi>
+               </item>
+               <item>Towne corporate. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. ca <hi>7.</hi> Et <hi>1.</hi> M. par. <hi>2.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Traitors. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Traiterous wordes. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp; M. cap. <hi>9.</hi>
+               </item>
+               <item>Tranſporting of graine. <hi>5.</hi> Eliz. ca. <hi>9.</hi>
+               </item>
+               <item>Trauers. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>8.</hi>
+               </item>
+               <item>Treaſorer. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.7.</hi>
+               </item>
+               <item>Treaſorer of Englande. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Treaſorer of the court of Augmentations <hi>1.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Treaſon. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>11.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>1.</hi> ca. <hi>1.</hi> Et. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. cap. <hi>10.</hi> Et. <hi>1.</hi> Elizabeth. cap. <hi>1.5.</hi> Et <hi>5.</hi> Eliz. ca. <hi>1.</hi>
+               </item>
+               <item>Treſpas. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Triars. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Triall of Iſſue. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>Trinitie houſe at Deptforde ſtrond. <hi>8.</hi> Eliz. ca. <hi>13.</hi>
+               </item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>VAgabondes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>3.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>2</hi> Et. <hi>5.</hi> Eliz. ca. <hi>3.</hi>
+               </item>
+               <item>Vicar. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Vicountelles. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>4.</hi>
+               </item>
+               <item>Vitaile. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>15.</hi> Et <hi>3.</hi> E. <hi>6.</hi> cap. <hi>5</hi>
+               </item>
+               <item>Victailer <hi>3.</hi> E. <hi>6.</hi> 
+                  <abbr>capitul</abbr>. <hi>21.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>14.</hi>
+               </item>
+               <item>Viewe. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Viſitacion. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>1.</hi>
+               </item>
+               <item>Vniuerſitie. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Vniting of Churches. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+               <item>Vnlawfull aſſemblies. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>5.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>12.</hi> Et par. <hi>2.</hi> ca. <hi>12.</hi> Et. <hi>1.</hi> &amp;. <hi>2.</hi> P. &amp; M. ca. <hi>16.</hi>
+               </item>
+               <item>Vnlawfull games. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. ca. <hi>9.</hi>
+               </item>
+               <item>Vſurping of the Crowne. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>WAges. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>22.</hi>
+               </item>
+               <item>Wales. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Walſhe Cottons and Friſe. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>6.</hi>
+               </item>
+               <item>Wardein. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Wardeine of the .v. portes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Wardens of the Marſhes. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>5.</hi>
+               </item>
+               <item>Wardens of Clothworkers. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.</hi>
+               </item>
+               <item>Wares for Apparell. <hi>5.</hi> Eliz. ca. <hi>6.</hi>
+               </item>
+               <item>Warrant. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2.17.</hi> Et. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>17.</hi>
+               </item>
+               <item>Warren. <hi>3.</hi> E. <hi>6.</hi> cap. <hi>3.</hi> Et. <hi>5.</hi> E. <hi>6.</hi> cap. <hi>5.</hi>
+               </item>
+               <item>Warres. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>3.</hi>
+               </item>
+               <item>Watermen. <hi>2.</hi> &amp;. <hi>3.</hi> P. &amp; M. ca. <hi>16.</hi>
+               </item>
+               <item>Waynlinges. <hi>7.</hi> E. <hi>6.</hi> ca. <hi>11.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:22443:7"/>
+Weuer. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>22.</hi> Et <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et <hi>2</hi> &amp; <hi>3.</hi> P. &amp; M. ca. <hi>11.</hi>
+               </item>
+               <item>Weneſday fiſhday. <hi>5.</hi> Eliz. ca. <hi>5.</hi>
+               </item>
+               <item>Weſtm<g ref="char:cmbAbbrStroke">̄</g>. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Whitecloth. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>White aſhes. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>26.</hi>
+               </item>
+               <item>Whote preſſe. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Wilde fowle. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Wilfull killyng. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>12.</hi>
+               </item>
+               <item>William Sharington. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>17.18.</hi> Et <hi>3.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Wincheſter. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>14.</hi>
+               </item>
+               <item>Winchelſey. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>30.</hi>
+               </item>
+               <item>Winding of Wolles, <hi>5.</hi> E. <hi>6.</hi> ca. <hi>17.</hi> Et. <hi>7</hi> E. <hi>6.</hi> ca. <hi>11.</hi> Et. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et par. <hi>2.</hi> ca. <hi>12.</hi> Et <hi>1.</hi> et <hi>2.</hi> P. &amp; M. ca. <hi>16.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>18.</hi>
+               </item>
+               <item>Wines. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi> Et <hi>5.</hi> E. <hi>6.</hi> ca. <hi>17.18.</hi> Et <hi>7.</hi> E. <hi>6.</hi> ca. <hi>5.</hi> Et. <hi>1.</hi> Eliz. ca. <hi>11.</hi> Et. <hi>5.</hi> Eliz. cap. <hi>5.</hi>
+               </item>
+               <item>Witchecraftes. <hi>5.</hi> Eliz. ca. <hi>16.</hi>
+               </item>
+               <item>Witneſſe. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>1.</hi> Et <hi>2.</hi> E. <hi>6.</hi> ca. <hi>29.</hi>
+               </item>
+               <item>Woad. <hi>5.</hi> E. <hi>6.</hi> ca. <hi>18.</hi>
+               </item>
+               <item>Woods. <hi>7.</hi> E. <hi>6.</hi> ca <hi>11.</hi> Et. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp; M. Seſſ. <hi>2.</hi> ca. <hi>13.</hi> Et par. <hi>2.</hi> ca. <hi>12.</hi> Et. <hi>1.</hi> &amp; <hi>2.</hi> P. &amp; M. ca. <hi>16.</hi> Et <hi>2.</hi> &amp; <hi>3.</hi> P. &amp; M. ca. <hi>21.</hi> Et <hi>4.</hi> &amp; <hi>5.</hi> P. &amp; M. ca. <hi>9.</hi> Et <hi>1.</hi> Eliz. ca. <hi>18.</hi>
+               </item>
+               <item>Wool packer. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.13.</hi> Et <hi>5.</hi> E. <hi>6.</hi> cap. <hi>7.</hi>
+               </item>
+               <item>Woolles <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.13.</hi> Et <hi>5.</hi> E. <hi>6.</hi> ca. <hi>7.</hi>
+               </item>
+               <item>Woolles liyng by men of Halifax. <hi>2.</hi> &amp; <hi>3.</hi> P. &amp; M. ca. <hi>13.</hi>
+               </item>
+               <item>Woolles boyled <hi>5.</hi> E. <hi>6.</hi> ca. <hi>6.</hi>
+               </item>
+               <item>Wolle<g ref="char:cmbAbbrStroke">̄</g>cloth. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi> Et <hi>3.</hi> E. <hi>6.</hi> ca. <hi>2.23.</hi>
+               </item>
+               <item>Woollfels. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>13.</hi>
+               </item>
+               <item>Worſted yarne. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>6.</hi> Et <hi>5.</hi> E. <hi>6.</hi> ca. <hi>7</hi>
+               </item>
+               <item>Worke for meate &amp; drinke. <hi>3.</hi> E. <hi>6.</hi> ca. <hi>16.</hi>
+               </item>
+               <item>Writings dated as in y<hi rend="sup">e</hi> reigne of the lady Iane. <hi>1.</hi> M. par. <hi>1.</hi> Seſſ. <hi>2.</hi> ca. <hi>4.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>YOman ſouldiour. <hi>2.</hi> E. <hi>6.</hi> ca. <hi>2</hi> Yorke. <hi>1.</hi> E. <hi>6.</hi> ca. <hi>9.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:22443:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
